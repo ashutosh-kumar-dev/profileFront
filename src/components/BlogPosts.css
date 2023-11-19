@@ -1,0 +1,17 @@
+/* src/BlogPosts.css */
+.blog-container {
+    padding: 20px;
+  }
+  
+  .timeline {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .post {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #fff;
+  }
+  
